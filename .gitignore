@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+TOI-Zero_68_PDF/**/*.py
+TOI-Zero_68_PDF/**/*.cpp
+
